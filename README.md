@@ -63,5 +63,6 @@ começou em 11/12/2024 e foi lançada em 29/06/2025 com uma ideia de automátiza
 desenvolvedor: J
 testadores de software, analistas de teste: gustavo, airii, J
 # observações:
-novas opções e versões podem vir com bugs, normalmente opções mais complexas tem mais chances de travar
+- novas opções e versões podem vir com bugs, normalmente opções mais complexas tem mais chances de travar
 se isso acontecer chame o suporte que corrigiremos isso rapidamente
+- extensões dentro do sistema não são feitas pela equipe, extensões feitas pela equipe TRX terão o selo TRX ao lado
