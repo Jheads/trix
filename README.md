@@ -41,7 +41,7 @@ A Trix funciona como um hub administrativo em linha de comando, organizado em ar
 - Preparação gradual para interface gráfica
 # Licença
 - Projeto open source.
-- Consulte o arquivo LICENSE para detalhes.
+- Consulte o arquivo TERMOS para detalhes.
 # Contribuição
 - Contribuições são bem-vindas:
 - Correções
